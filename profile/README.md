@@ -48,3 +48,10 @@ Factory: [0x0307cd3D7DA98A29e6Ed0D2137be386Ec1e4Bc9C](https://etc.blockscout.com
 Router: [0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5](https://etc.blockscout.com/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5)
 
 WETC: [0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a](https://etc.blockscout.com/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a)
+
+
+# Other Links
+
+website: [ethereumclassic.org](https://ethereumclassic.com)
+
+website: [wrappedether.org](https://wrappedether.org)
