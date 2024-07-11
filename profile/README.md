@@ -39,8 +39,12 @@ Quoter V2: [0x4d8c163400CB87Cbe1bae76dBf36A09FED85d39B](https://etc.blockscout.c
 
 Swap Router02: [0xEd88EDD995b00956097bF90d39C9341BBde324d1](https://etc.blockscout.com/address/0xEd88EDD995b00956097bF90d39C9341BBde324d1)
 
+WETC: [0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a](https://etc.blockscout.com/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a)
+
 ## ETCswap V2
 
 Factory: [0x0307cd3D7DA98A29e6Ed0D2137be386Ec1e4Bc9C](https://etc.blockscout.com/address/0x0307cd3D7DA98A29e6Ed0D2137be386Ec1e4Bc9C)
 
 Router: [0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5](https://etc.blockscout.com/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5)
+
+WETC: [0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a](https://etc.blockscout.com/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a)
