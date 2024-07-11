@@ -52,6 +52,6 @@ WETC: [0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a](https://etc.blockscout.com/ad
 
 # Other Links
 
-website: [ethereumclassic.org](https://ethereumclassic.com)
+website: [ethereumclassic.com](https://ethereumclassic.com)
 
 website: [wrappedether.org](https://wrappedether.org)
