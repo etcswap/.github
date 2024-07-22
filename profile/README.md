@@ -1,13 +1,29 @@
+## Welcome to the ETCswap 🙌
+
 <img src="https://github.com/user-attachments/assets/1d132b72-1c84-48d9-836c-cc04dd8e26e3" alt="ETCswap" width="200"/>
 
 # ETCswap Links
 
-website: [ETCswap.org](https://etcswap.org)
+website: [etcswap.org](https://etcswap.org)
 
 twitter: [ETCswap_org](https://x.com/ETCswap_org)
 
 brand assets: [etcswap/brand](https://github.com/etcswap/brand)
 
+## ETCswap V3 Links
+
+v3 application: [v3.etcswap.org](https://v3.etcswap.org)
+
+v3 application ipfs: [v3-ipfs.etcswap.org](https://v3-ipfs.etcswap.org)
+
+## ETCswap V2 Links
+
+v2 application: [v2.etcswap.org](https://v2.etcswap.org)
+
+v2 application ipfs: [v2-ipfs.etcswap.org](https://v2-ipfs.etcswap.org)
+
+v2 application ipfs hash: 
+[QmVRzrPTiFZAG1s6G4dQ4CA1qJXYZwNykmYkAFw25kCrgW](https://ipfs.io/ipfs/QmVRzrPTiFZAG1s6G4dQ4CA1qJXYZwNykmYkAFw25kCrgW)
 
 # ETCswap Contracts
 
