@@ -26,7 +26,7 @@ v2 application: [v2.etcswap.org](https://v2.etcswap.org)
 v2 application ipfs: [v2-ipfs.etcswap.org](https://v2-ipfs.etcswap.org)
 
 v2 application ipfs hash: 
-[QmVRzrPTiFZAG1s6G4dQ4CA1qJXYZwNykmYkAFw25kCrgW](https://ipfs.io/ipfs/QmVRzrPTiFZAG1s6G4dQ4CA1qJXYZwNykmYkAFw25kCrgW)
+[bafybeihky5oo4jkowxpkfsywfj6axnxwqo5gkxo5ivztu3xdr6g4nzczgy](https://ipfs.io/ipfs/bafybeihky5oo4jkowxpkfsywfj6axnxwqo5gkxo5ivztu3xdr6g4nzczgy)
 
 # ETCswap Contracts
 
