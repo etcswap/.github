@@ -43,6 +43,8 @@ Swap Router02: [0xEd88EDD995b00956097bF90d39C9341BBde324d1](https://etc.blocksco
 
 WETC: [0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a](https://etc.blockscout.com/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a)
 
+USC Stablecoin: [0xDE093684c796204224BC081f937aa059D903c52a](https://etc.blockscout.com/token/0xDE093684c796204224BC081f937aa059D903c52a)
+
 ## ETCswap V2
 
 Factory: [0x0307cd3D7DA98A29e6Ed0D2137be386Ec1e4Bc9C](https://etc.blockscout.com/address/0x0307cd3D7DA98A29e6Ed0D2137be386Ec1e4Bc9C)
@@ -50,6 +52,8 @@ Factory: [0x0307cd3D7DA98A29e6Ed0D2137be386Ec1e4Bc9C](https://etc.blockscout.com
 Router: [0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5](https://etc.blockscout.com/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5)
 
 WETC: [0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a](https://etc.blockscout.com/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a)
+
+USC Stablecoin: [0xDE093684c796204224BC081f937aa059D903c52a](https://etc.blockscout.com/token/0xDE093684c796204224BC081f937aa059D903c52a)
 
 
 # Other Links
