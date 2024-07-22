@@ -14,14 +14,24 @@ brand assets: [etcswap/brand](https://github.com/etcswap/brand)
 
 v3 application: [v3.etcswap.org](https://v3.etcswap.org)
 
+v3 analytics: [info.etcswap.org](https://v3-info.etcswap.org)
+
+### IPFS V3 Links
+
 v3 application ipfs: [v3-ipfs.etcswap.org](https://v3-ipfs.etcswap.org)
 
 v3 application ipfs hash: 
 [bafybeifodxjubzrzsdfyy6k2s4mhna2czsbtgiivyqqsuqf7hy26r4llmu](https://ipfs.io/ipfs/bafybeifodxjubzrzsdfyy6k2s4mhna2czsbtgiivyqqsuqf7hy26r4llmu)
 
+v3 ipfs analytics: [v3-ipfs-info.etcswap.org](https://v3-ipfs-info.etcswap.org)
+
+v3 ipfs analytics hash: [bafybeihjqxlv4t6cmu5po3jirm347z6mgibjteslkk2ywtwl64tbprek4e](https://ipfs.io/ipfs/bafybeihjqxlv4t6cmu5po3jirm347z6mgibjteslkk2ywtwl64tbprek4e)
+
 ## ETCswap V2 Links
 
 v2 application: [v2.etcswap.org](https://v2.etcswap.org)
+
+### IPFS V2 Links
 
 v2 application ipfs: [v2-ipfs.etcswap.org](https://v2-ipfs.etcswap.org)
 
