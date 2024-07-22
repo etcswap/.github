@@ -6,6 +6,8 @@ website: [ETCswap.org](https://etcswap.org)
 
 twitter: [ETCswap_org](https://x.com/ETCswap_org)
 
+brand assets: [etcswap/brand](https://github.com/etcswap/brand)
+
 
 # ETCswap Contracts
 
