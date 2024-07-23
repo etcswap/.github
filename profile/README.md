@@ -23,7 +23,7 @@ v3 application ipfs: [v3-ipfs.etcswap.org](https://v3-ipfs.etcswap.org)
 v3 application ipfs hash: 
 [bafybeifodxjubzrzsdfyy6k2s4mhna2czsbtgiivyqqsuqf7hy26r4llmu](https://ipfs.io/ipfs/bafybeifodxjubzrzsdfyy6k2s4mhna2czsbtgiivyqqsuqf7hy26r4llmu)
 
-v3 ipfs analytics: [v3-ipfs-info.etcswap.org](https://v3-ipfs-info.etcswap.org)
+v3 ipfs analytics: [v3-info-ipfs.etcswap.org](https://v3-info-ipfs.etcswap.org)
 
 v3 ipfs analytics hash: [bafybeihjqxlv4t6cmu5po3jirm347z6mgibjteslkk2ywtwl64tbprek4e](https://ipfs.io/ipfs/bafybeihjqxlv4t6cmu5po3jirm347z6mgibjteslkk2ywtwl64tbprek4e)
 
