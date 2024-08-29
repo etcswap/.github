@@ -89,6 +89,8 @@ USC Stablecoin: [0xDE093684c796204224BC081f937aa059D903c52a](https://etc.blocksc
 
 # Other Links
 
+website: [classicusd.com](https://classicusd.com)
+
 website: [ethereumclassic.com](https://ethereumclassic.com)
 
 website: [wrappedether.org](https://wrappedether.org)
