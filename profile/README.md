@@ -44,8 +44,6 @@ v2 application ipfs hash:
 
 Factory: [0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC](https://etc.blockscout.com/address/0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC)
 
-Router: [0xEd88EDD995b00956097bF90d39C9341BBde324d1](https://etc.blockscout.com/address/0xEd88EDD995b00956097bF90d39C9341BBde324d1)
-
 Permit2: [0x000000000022D473030F116dDEE9F6B43aC78BA3](https://etc.blockscout.com/address/0x000000000022D473030F116dDEE9F6B43aC78BA3)
 
 Universal Router: [0x9b676E761040D60C6939dcf5f582c2A4B51025F1](https://etc.blockscout.com/address/0x9b676E761040D60C6939dcf5f582c2A4B51025F1)
