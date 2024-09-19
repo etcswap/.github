@@ -46,9 +46,9 @@ v2 application ipfs hash:
 
 ## ETCswap V3
 
-Factory: [0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC](https://etc.blockscout.com/address/0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC)
+V3 Factory: [0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC](https://etc.blockscout.com/address/0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC)
 
-Universal Router: [0x9b676E761040D60C6939dcf5f582c2A4B51025F1](https://etc.blockscout.com/address/0x9b676E761040D60C6939dcf5f582c2A4B51025F1)
+V3 Universal Router: [0x9b676E761040D60C6939dcf5f582c2A4B51025F1](https://etc.blockscout.com/address/0x9b676E761040D60C6939dcf5f582c2A4B51025F1)
 
 Permit2: [0x000000000022D473030F116dDEE9F6B43aC78BA3](https://etc.blockscout.com/address/0x000000000022D473030F116dDEE9F6B43aC78BA3)
 
@@ -80,9 +80,9 @@ USC Stablecoin: [0xDE093684c796204224BC081f937aa059D903c52a](https://etc.blocksc
 
 ## ETCswap V2
 
-Factory: [0x0307cd3D7DA98A29e6Ed0D2137be386Ec1e4Bc9C](https://etc.blockscout.com/address/0x0307cd3D7DA98A29e6Ed0D2137be386Ec1e4Bc9C)
+V2 Factory: [0x0307cd3D7DA98A29e6Ed0D2137be386Ec1e4Bc9C](https://etc.blockscout.com/address/0x0307cd3D7DA98A29e6Ed0D2137be386Ec1e4Bc9C)
 
-Router: [0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5](https://etc.blockscout.com/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5)
+V2 Router: [0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5](https://etc.blockscout.com/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5)
 
 WETC: [0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a](https://etc.blockscout.com/token/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a)
 
