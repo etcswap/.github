@@ -16,6 +16,8 @@ v3 application: [v3.etcswap.org](https://v3.etcswap.org)
 
 v3 analytics: [info.etcswap.org](https://v3-info.etcswap.org)
 
+v3 GeckoTerminal: [https://www.geckoterminal.com/ethereum_classic/etcswap-v3/pools](https://www.geckoterminal.com/ethereum_classic/etcswap-v3/pools)
+
 ### IPFS V3 Links
 
 v3 application ipfs: [v3-ipfs.etcswap.org](https://v3-ipfs.etcswap.org)
@@ -30,6 +32,8 @@ v3 ipfs analytics hash: [bafybeihjqxlv4t6cmu5po3jirm347z6mgibjteslkk2ywtwl64tbpr
 ## ETCswap V2 Links
 
 v2 application: [v2.etcswap.org](https://v2.etcswap.org)
+
+v2 GeckoTerminal: [https://www.geckoterminal.com/ethereum_classic/etcswap-v2/pools](https://www.geckoterminal.com/ethereum_classic/etcswap-v2/pools)
 
 ### IPFS V2 Links
 
