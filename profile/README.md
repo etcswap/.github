@@ -91,6 +91,8 @@ USC Stablecoin: [0xDE093684c796204224BC081f937aa059D903c52a](https://etc.blocksc
 
 # Other Links
 
+ECO Reward Token: [0xc0364FB5498c17088A5B1d98F6FB3dB2Df9866a9](https://etc.blockscout.com/token/0xc0364FB5498c17088A5B1d98F6FB3dB2Df9866a9)
+
 website: [classicusd.com](https://classicusd.com)
 
 website: [ethereumclassic.com](https://ethereumclassic.com)
