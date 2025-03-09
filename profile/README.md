@@ -33,6 +33,8 @@ v3 ipfs analytics hash: [bafybeihjqxlv4t6cmu5po3jirm347z6mgibjteslkk2ywtwl64tbpr
 
 v2 application: [v2.etcswap.org](https://v2.etcswap.org)
 
+v2 application on Mordor Testnet: [v2-mordor.etcswap.org](https://v2-mordor.etcswap.org)
+
 v2 GeckoTerminal: [https://www.geckoterminal.com/ethereum_classic/etcswap-v2/pools](https://www.geckoterminal.com/ethereum_classic/etcswap-v2/pools)
 
 ### IPFS V2 Links
